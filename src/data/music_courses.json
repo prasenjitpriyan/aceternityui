@@ -1,0 +1,154 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Mastery",
+      "slug": "guitar-mastery",
+      "description": "Master the guitar with comprehensive lessons covering techniques, theory, and repertoire.",
+      "price": 49.99,
+      "instructor": "John Smith",
+      "isFeatured": true,
+      "image": "guitar-mastery.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano Fundamentals",
+      "slug": "piano-fundamentals",
+      "description": "Learn essential piano skills from basic finger exercises to playing your favorite songs.",
+      "price": 39.99,
+      "instructor": "Emily Davis",
+      "isFeatured": false,
+      "image": "piano-fundamentals.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Music Theory Essentials",
+      "slug": "music-theory-essentials",
+      "description": "Demystify music theory with clear explanations and practical exercises.",
+      "price": 29.99,
+      "instructor": "Michael Johnson",
+      "isFeatured": true,
+      "image": "music-theory-essentials.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Singing Techniques",
+      "slug": "singing-techniques",
+      "description": "Discover the secrets of great singing through vocal exercises, breathing techniques, and performance tips.",
+      "price": 34.99,
+      "instructor": "Sarah Anderson",
+      "isFeatured": true,
+      "image": "singing-techniques.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Bass Guitar Basics",
+      "slug": "bass-guitar-basics",
+      "description": "Learn the fundamentals of playing bass guitar, including scales, rhythms, and groove techniques.",
+      "price": 44.99,
+      "instructor": "David Thompson",
+      "isFeatured": false,
+      "image": "bass-guitar-basics.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Songwriting Workshop",
+      "slug": "songwriting-workshop",
+      "description": "Unlock your creativity and learn the art of crafting memorable songs from lyrics to melody.",
+      "price": 49.99,
+      "instructor": "Alexandra Lee",
+      "isFeatured": true,
+      "image": "songwriting-workshop.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Jazz Improvisation",
+      "slug": "jazz-improvisation",
+      "description": "Explore the world of jazz improvisation through scales, chord progressions, and soloing techniques.",
+      "price": 59.99,
+      "instructor": "Charlie Parker",
+      "isFeatured": false,
+      "image": "jazz-improvisation.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Drumming Foundations",
+      "slug": "drumming-foundations",
+      "description": "Get started with drumming basics including rudiments, beats, and fills for various musical styles.",
+      "price": 39.99,
+      "instructor": "Maxwell Jones",
+      "isFeatured": true,
+      "image": "drumming-foundations.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Produce your own electronic music tracks using software instruments, synthesis, and effects.",
+      "price": 54.99,
+      "instructor": "Olivia Martinez",
+      "isFeatured": true,
+      "image": "electronic-music-production.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Classical Guitar Techniques",
+      "slug": "classical-guitar-techniques",
+      "description": "Learn classical guitar techniques including fingerpicking, arpeggios, and classical repertoire.",
+      "price": 49.99,
+      "instructor": "Antonio Rodriguez",
+      "isFeatured": false,
+      "image": "classical-guitar-techniques.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Music Production Masterclass",
+      "slug": "music-production-masterclass",
+      "description": "Master the art of music production from recording and mixing to mastering and distribution.",
+      "price": 69.99,
+      "instructor": "Daniel White",
+      "isFeatured": true,
+      "image": "music-production-masterclass.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Saxophone Essentials",
+      "slug": "saxophone-essentials",
+      "description": "Learn essential saxophone techniques and explore various styles from jazz to classical.",
+      "price": 44.99,
+      "instructor": "Sophie Brown",
+      "isFeatured": false,
+      "image": "saxophone-essentials.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Music Marketing Strategies",
+      "slug": "music-marketing-strategies",
+      "description": "Discover effective strategies for promoting your music, building a fanbase, and growing your career.",
+      "price": 29.99,
+      "instructor": "Mark Taylor",
+      "isFeatured": true,
+      "image": "music-marketing-strategies.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Violin Foundations",
+      "slug": "violin-foundations",
+      "description": "Start your violin journey with proper posture, bowing techniques, and beginner violin repertoire.",
+      "price": 39.99,
+      "instructor": "Isabella Martinez",
+      "isFeatured": false,
+      "image": "violin-foundations.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Funk Bass Grooves",
+      "slug": "funk-bass-grooves",
+      "description": "Explore funky bass lines and grooves inspired by funk legends like Bootsy Collins and Larry Graham.",
+      "price": 49.99,
+      "instructor": "Marcus Johnson",
+      "isFeatured": true,
+      "image": "funk-bass-grooves.jpg"
+    }
+  ]
+}
