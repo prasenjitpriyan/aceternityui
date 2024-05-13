@@ -8,7 +8,7 @@
       "price": 49.99,
       "instructor": "John Smith",
       "isFeatured": true,
-      "image": "guitar-mastery.jpg"
+      "image": "/courses/guitar.jpg"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "price": 39.99,
       "instructor": "Emily Davis",
       "isFeatured": false,
-      "image": "piano-fundamentals.jpg"
+      "image": "/courses/piano.jpg"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "price": 29.99,
       "instructor": "Michael Johnson",
       "isFeatured": true,
-      "image": "music-theory-essentials.jpg"
+      "image": "/courses/music-therapy.jpg"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "price": 34.99,
       "instructor": "Sarah Anderson",
       "isFeatured": true,
-      "image": "singing-techniques.jpg"
+      "image": "/courses/guitar.jpg"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "price": 44.99,
       "instructor": "David Thompson",
       "isFeatured": false,
-      "image": "bass-guitar-basics.jpg"
+      "image": "/courses/guitar.jpg"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "price": 49.99,
       "instructor": "Alexandra Lee",
       "isFeatured": true,
-      "image": "songwriting-workshop.jpg"
+      "image": "/courses/guitar.jpg"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "price": 59.99,
       "instructor": "Charlie Parker",
       "isFeatured": false,
-      "image": "jazz-improvisation.jpg"
+      "image": "/courses/guitar.jpg"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "price": 39.99,
       "instructor": "Maxwell Jones",
       "isFeatured": true,
-      "image": "drumming-foundations.jpg"
+      "image": "/courses/guitar.jpg"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "price": 54.99,
       "instructor": "Olivia Martinez",
       "isFeatured": true,
-      "image": "electronic-music-production.jpg"
+      "image": "/courses/guitar.jpg"
     },
     {
       "id": 10,
@@ -98,7 +98,7 @@
       "price": 49.99,
       "instructor": "Antonio Rodriguez",
       "isFeatured": false,
-      "image": "classical-guitar-techniques.jpg"
+      "image": "/courses/guitar.jpg"
     },
     {
       "id": 11,
@@ -108,7 +108,7 @@
       "price": 69.99,
       "instructor": "Daniel White",
       "isFeatured": true,
-      "image": "music-production-masterclass.jpg"
+      "image": "/courses/guitar.jpg"
     },
     {
       "id": 12,
@@ -118,7 +118,7 @@
       "price": 44.99,
       "instructor": "Sophie Brown",
       "isFeatured": false,
-      "image": "saxophone-essentials.jpg"
+      "image": "/courses/guitar.jpg"
     },
     {
       "id": 13,
@@ -128,7 +128,7 @@
       "price": 29.99,
       "instructor": "Mark Taylor",
       "isFeatured": true,
-      "image": "music-marketing-strategies.jpg"
+      "image": "/courses/guitar.jpg"
     },
     {
       "id": 14,
@@ -138,7 +138,7 @@
       "price": 39.99,
       "instructor": "Isabella Martinez",
       "isFeatured": false,
-      "image": "violin-foundations.jpg"
+      "image": "/courses/guitar.jpg"
     },
     {
       "id": 15,
@@ -148,7 +148,7 @@
       "price": 49.99,
       "instructor": "Marcus Johnson",
       "isFeatured": true,
-      "image": "funk-bass-grooves.jpg"
+      "image": "/courses/guitar.jpg"
     }
   ]
 }
